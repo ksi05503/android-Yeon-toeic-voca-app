@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="day">
+        <item>day1</item>
+        <item>day2</item>
+        <item>day3</item>
+        <item>day4</item>
+        <item>day5</item>
+        <item>day6</item>
+        <item>day7</item>
+        <item>day8</item>
+        <item>day9</item>
+        <item>day10</item>
+        <item>day11</item>
+        <item>day12</item>
+        <item>day13</item>
+        <item>day14</item>
+        <item>day15</item>
+        <item>day16</item>
+        <item>day17</item>
+        <item>day18</item>
+        <item>day19</item>
+        <item>day20</item>
+        <item>day21</item>
+        <item>day22</item>
+        <item>day23</item>
+        <item>day24</item>
+        <item>day25</item>
+        <item>day26</item>
+        <item>day27</item>
+        <item>day28</item>
+        <item>day29</item>
+        <item>day30</item>
+
+
+    </array>
+
+</resources>

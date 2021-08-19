@@ -1,0 +1,2 @@
+rootProject.name = "MyRiseApp032"
+include ':app'
