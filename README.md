@@ -12,9 +12,9 @@
 (3) 단어시험 [게임]  : 스레드를 이용하여 단어시험 게임을 만들었다.
 
 주요화면
+
 ![image](https://user-images.githubusercontent.com/79785454/130098702-036f1b23-408f-419e-92e5-36d3306833e0.png)
 ![image](https://user-images.githubusercontent.com/79785454/130098749-2c995373-0d93-426c-83cd-a7d0ebd8df87.png)
-![image](https://user-images.githubusercontent.com/79785454/130099054-17abebcf-fcd7-4a78-a565-dc3a1c492336.png)
 ![image](https://user-images.githubusercontent.com/79785454/130098803-622a1308-39eb-4d12-98bb-054b6336025b.png)
 ![image](https://user-images.githubusercontent.com/79785454/130098853-d464fbde-b1b7-41e8-b168-dfa03afc23df.png)
 ![image](https://user-images.githubusercontent.com/79785454/130098951-390b3c34-f747-4f09-8bca-9db71f94321a.png)
